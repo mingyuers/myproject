@@ -1,0 +1,19 @@
+{
+  "background_color": "#ffffff",
+  "description": "",
+  "dir": "auto",
+  "display": "standalone",
+  "lang": "en",
+  "name": "Tab Navigation Template",
+  "orientation": "portrait",
+  "prefer_related_applications": true,
+  "related_applications": [
+    {
+      "platform": "play",
+      "url": "http://play.google.com/store/apps/details?id=com.expo.mobile.myproject",
+      "id": "com.expo.mobile.myproject"
+    }
+  ],
+  "short_name": "Tab Navigation Template",
+  "start_url": "."
+}
